@@ -1,7 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    int arr[]={9,9,7,7,5,5,5,5,3,2,2,1};
+    // int arr[]={9,9,7,7,5,5,5,5,3,2,2,1};
+    int arr[]={5,5,4,3,3,2,1};
 
     int sorted = 1;
     int size=sizeof(arr)/sizeof(int);
