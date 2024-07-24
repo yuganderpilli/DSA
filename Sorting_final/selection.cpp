@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    int arr[]={7,4,3,5,76,3,7,7,4,234,537,75,3,343,53,6,8,6,22,3,23,23};
+  int arr[]={1,3,45,76,7864,323,43,46,75,8,455,42,53,53};
     int size = sizeof(arr)/sizeof(int);
 cout<<size<<endl;
 for(int i=0;i<size;i++){
